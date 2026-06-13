@@ -2,7 +2,7 @@
 
 # 🎮 Craft Host
 
-**Premium game server hosting — built for gamers, by gamers.**
+**Hosting premium de servidores de juegos — creado por gamers, para gamers.**
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-Supported-green?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI+PHBhdGggZmlsbD0iIzVFOUQ1NSIgZD0iTTAgMGg4djhoOHY4SDh2OEgweiIvPjxwYXRoIGZpbGw9IiM3QjU1MzYiIGQ9Ik04IDBoOHY4SDh6TTAgOGg4djhoOHYtOEg4eiIvPjwvc3ZnPg==)](#)
 [![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](#)
@@ -12,65 +12,65 @@
 
 ---
 
-## 🚀 About
+## 🚀 Acerca de
 
-**Craft Host** is on a mission to deliver the best video game hosting experience on the planet. We build reliable, high-performance, and easy-to-use infrastructure so players can focus on what matters — playing.
+**Craft Host** tiene la misión de ofrecer la mejor experiencia de hosting de videojuegos del planeta. Construimos infraestructura confiable, de alto rendimiento y fácil de usar para que los jugadores puedan enfocarse en lo que importa — jugar.
 
-We're starting with **Minecraft** as our first supported game 🟩, with an expanding roster of titles on the horizon. Our platform is designed from the ground up to be game-agnostic, so adding new titles is seamless.
+Comenzamos con **Minecraft** como nuestro primer juego compatible 🟩, con una lista de títulos en expansión en el horizonte. Nuestra plataforma está diseñada desde cero para ser agnóstica en cuanto a juegos, por lo que agregar nuevos títulos es transparente.
 
 ---
 
-## 🧱 Our Services
+## 🧱 Nuestros Servicios
 
-Craft Host is built on a modular, microservices-based architecture. Here's what powers the platform:
+Craft Host está construido sobre una arquitectura modular basada en microservicios. Esto es lo que impulsa la plataforma:
 
-| Repository | Description |
+| Repositorio | Descripción |
 |---|---|
-| [**server-manager**](https://github.com/craft-host/server-manager) | Core server management infrastructure — provisioning, lifecycle, and orchestration |
-| [**console-service**](https://github.com/craft-host/console-service) | Real-time web-based game server console with live log streaming |
-| [**auth-service**](https://github.com/craft-host/auth-service) | Authentication, authorization, and user management |
-| [**api-gateway**](https://github.com/craft-host/api-gateway) | Central API gateway routing and rate limiting for all services |
-| [**angular-frontend**](https://github.com/craft-host/angular-frontend) | Web dashboard and control panel built with Angular |
-| [**billing-service**](https://github.com/craft-host/billing-service) | Subscription plans, payments, and billing management |
-| [**mod-service**](https://github.com/craft-host/mod-service) | Mod and plugin management for game servers |
-| [**backup-service**](https://github.com/craft-host/backup-service) | Automated backup, snapshot, and restore system |
+| [**server-manager**](https://github.com/craft-host/server-manager) | Infraestructura central de gestión de servidores — aprovisionamiento, ciclo de vida y orquestación |
+| [**console-service**](https://github.com/craft-host/console-service) | Consola web en tiempo real para servidores de juegos con streaming de logs en vivo |
+| [**auth-service**](https://github.com/craft-host/auth-service) | Autenticación, autorización y gestión de usuarios |
+| [**api-gateway**](https://github.com/craft-host/api-gateway) | Gateway central de API con enrutamiento y limitación de tasa para todos los servicios |
+| [**angular-frontend**](https://github.com/craft-host/angular-frontend) | Panel web y de control construido con Angular |
+| [**billing-service**](https://github.com/craft-host/billing-service) | Planes de suscripción, pagos y gestión de facturación |
+| [**mod-service**](https://github.com/craft-host/mod-service) | Gestión de mods y plugins para servidores de juegos |
+| [**backup-service**](https://github.com/craft-host/backup-service) | Sistema automatizado de respaldos, snapshots y restauración |
 
 ---
 
-## 🗺️ Roadmap
+## 🗺️ Hoja de Ruta
 
-- ✅ **Minecraft** — Java & Bedrock server hosting
-- 🔜 **Additional game support** — expanding to more titles soon
-- 🔜 **DDoS protection** — enterprise-grade network security
-- 🔜 **Global regions** — low-latency hosting worldwide
-
----
-
-## 🤝 Contributing
-
-We welcome contributions from the community! Whether it's bug reports, feature requests, or pull requests — every bit helps make Craft Host better.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'feat: add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-Please read our contribution guidelines (coming soon) before submitting PRs.
+- ✅ **Minecraft** — Hosting de servidores Java y Bedrock
+- 🔜 **Soporte para más juegos** — expansión a más títulos próximamente
+- 🔜 **Protección DDoS** — seguridad de red de nivel empresarial
+- 🔜 **Regiones globales** — hosting de baja latencia en todo el mundo
 
 ---
 
-## 📬 Contact
+## 🤝 Contribuir
 
-- **GitHub Issues** — Report bugs or request features in the relevant repository
-- **Discord** — Join our community (coming soon)
+¡Damos la bienvenida a las contribuciones de la comunidad! Ya sea reportes de errores, solicitudes de funciones o pull requests — cada aporte ayuda a hacer Craft Host mejor.
+
+1. Haz un fork del repositorio
+2. Crea tu rama de función (`git checkout -b feature/amazing-feature`)
+3. Confirma tus cambios (`git commit -m 'feat: add amazing feature'`)
+4. Haz push a la rama (`git push origin feature/amazing-feature`)
+5. Abre un Pull Request
+
+Por favor, lee nuestras guías de contribución (próximamente) antes de enviar PRs.
+
+---
+
+## 📬 Contacto
+
+- **GitHub Issues** — Reporta errores o solicita funciones en el repositorio correspondiente
+- **Discord** — Únete a nuestra comunidad (próximamente)
 - **Email** — [hello@crafthost.net](mailto:hello@crafthost.net)
 
 ---
 
 <div align="center">
 
-**Built with ❤️ by the Craft Host team**
+**Construido con ❤️ por el equipo de Craft Host**
 
 [Website](https://crafthost.net) · [Discord](#) · [Twitter](#)
 
